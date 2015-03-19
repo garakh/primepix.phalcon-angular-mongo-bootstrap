@@ -1,0 +1,14 @@
+{
+    "name": "Track Lab",
+    "version": "0.1",
+    "main": "index.html",
+    "ignore": [
+        "**/.*",
+        "js/libs"
+    ],
+    "dependencies": {
+        "angular": "latest",
+        "requirejs": "latest",
+        "requirejs-domready": "latest"
+    }
+}
